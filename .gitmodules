@@ -1,0 +1,21 @@
+[submodule "exe1"]
+	path = exe1
+	url = https://github.com/4esterea/1ZHERV_Ex1
+[submodule "exe2"]
+	path = exe2
+	url = https://github.com/4esterea/1ZHERV_Ex2
+[submodule "exe3"]
+	path = exe3
+	url = https://github.com/4esterea/1ZHERV_Ex3
+[submodule "exe4"]
+	path = exe4
+	url = https://github.com/4esterea/1ZHERV_Ex4
+[submodule "exe5"]
+	path = exe5
+	url = https://github.com/4esterea/1ZHERV_Ex5
+[submodule "exe6"]
+	path = exe6
+	url = https://github.com/4esterea/1ZHERV_Ex6
+[submodule "exe7"]
+	path = exe7
+	url = https://github.com/4esterea/1ZHERV_Ex7
